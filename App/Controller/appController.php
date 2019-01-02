@@ -8,7 +8,6 @@ use Core\Controller\controller;
 
 use \app;
 
-
 class appController extends controller
 {
  	
